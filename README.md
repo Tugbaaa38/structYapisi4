@@ -1,0 +1,2 @@
+# structYapisi4
+structFonksiyonlaKullanimi
